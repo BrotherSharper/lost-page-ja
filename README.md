@@ -49,15 +49,17 @@ https://mtg-jp.com/assets/images/products/dungeons-dragons/02_EP2_Adventure.pdf
 
 ![image0](https://github.com/BrotherSharper/scarlet-flame-ja/blob/master/images/Mapmemo.jpg)
 
-![image1](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo0.jpg)
+![image1](https://github.com/BrotherSharper/lost-page-ja/blob/master/promo-1.jpg)
 
-![image2](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo1.jpg)
+![image2](https://github.com/BrotherSharper/lost-page-ja/blob/master/promo-2.jpg)
 
-![image3](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo2.jpg)
+![image3](https://github.com/BrotherSharper/lost-page-ja/blob/master/promo-3.jpg)
 
-![image4](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo3.jpg)
+# ネタバレ注意
 
-![image5](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo4.jpg)
+
+
+![image4](https://github.com/BrotherSharper/lost-page-ja/blob/master/Promo-4.gif)
 
 ## 利用素材
 ### シナリオ

@@ -61,6 +61,8 @@
 
   ],
   "socket": false,
+  "manifest": "https://raw.githubusercontent.com/BrotherSharper/lost-page-ja/master/world.json",
+  "download": "https://github.com/BrotherSharper/lost-page-ja/archive/master.zip",
   "protected": false,
   "background": "worlds/lost-page/image/Cover.jpg",
   "coreVersion": "0.8.9",
