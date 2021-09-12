@@ -66,26 +66,30 @@ https://mtg-jp.com/assets/images/products/dungeons-dragons/02_EP2_Adventure.pdf
 https://mtg-jp.com/assets/images/products/dungeons-dragons/02_EP2_Adventure.pdf
 
 ### マップ
-マップはすべてTakagiさん（https://twitter.com/takataka360 ）が作成しました。
+- マップはすべてTakagiさん（https://twitter.com/takataka360 ）が作成しました。
 
 ### 画像
 画像素材は以下よりお借りしています：
 
-三日月アルペジオ
+- 三日月アルペジオ
 http://roughsketch.en-grey.com/
-七三ゆきのアトリエ
+- 七三ゆきのアトリエ
 https://nanamiyuki.com/
-たつみや
+- たつみや
 https://ta2miya.booth.pm/items/2889597
+- 2-minute tabletop (CC-BY-SA 4.0)
+https://2minutetabletop.com/dungeon-trap-tokens/
+- Forgotten Adventures Assets
+https://www.forgotten-adventures.net/
 
 ### 音声
 音声素材は以下よりお借りしています：
 
-不協和世界の音楽博物館
+- 不協和世界の音楽博物館
 https://www.discoseum.com/user-policy
-Wingless-Seraph
+- Wingless-Seraph
 https://wingless-seraph.net/material-riyoukiyaku.html
-Peritune
+- Peritune
 https://peritune.com/about/
 
 ### SRD規約
