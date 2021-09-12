@@ -61,6 +61,14 @@
       "name": "patrol",
       "type": "module",
       "manifest": "https://github.com/theripper93/Patrol/releases/latest/download/module.json"
+    },
+    {
+      "name": "patrol"
+    },
+    {
+      "name": "journal-icon-numbers",
+      "type": "module",
+      "manifest": "https://gitlab.com/tiwato/journal_icon_numbers/raw/master/module.json"
     }
 
 
