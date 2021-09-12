@@ -1,0 +1,14 @@
+{"name":"はじめに","type":"JournalEntry","parent":null,"sorting":"m","sort":0,"color":null,"flags":{},"_id":"D8PHmlfPGNiklE3H"}
+{"_id":"E4G86UIJ9tMTya9R","name":"マジックアイテム","type":"Item","parent":null,"sorting":"m","sort":0,"color":"","flags":{}}
+{"name":"プリロールド（武装済み）","type":"Actor","parent":"LMDlloVobj3O1bMP","sorting":"m","sort":0,"color":null,"flags":{},"_id":"JWuAoDldwe9hUmoD"}
+{"_id":"LMDlloVobj3O1bMP","name":"プレイヤー","type":"Actor","parent":null,"sorting":"a","sort":-100000,"color":null,"flags":{}}
+{"_id":"LrQQhWqlXWahUzHh","name":"アンコモン","type":"Item","parent":"E4G86UIJ9tMTya9R","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"S2vkydPxKsePZv2y","name":"レア","type":"Item","parent":"E4G86UIJ9tMTya9R","sorting":"m","sort":150000,"color":null,"flags":{}}
+{"_id":"S3PtUx1Y1PvAkWOY","name":"第四部","type":"JournalEntry","parent":null,"sorting":"m","sort":400000,"color":null,"flags":{}}
+{"_id":"VoffAf1yQhJgKZBr","name":"第一部","type":"JournalEntry","parent":null,"sorting":"m","sort":100000,"color":null,"flags":{}}
+{"name":"罠","type":"Actor","parent":"gAzMdJM4xIhnYk07","sorting":"a","sort":0,"color":null,"flags":{},"_id":"YdqI7SY3HejuFU5h"}
+{"_id":"gAzMdJM4xIhnYk07","name":"NPC","type":"Actor","parent":null,"sorting":"m","sort":0,"color":"","flags":{}}
+{"_id":"iCWxZGDecAeAjBJu","name":"ポーション","type":"Item","parent":null,"sorting":"m","sort":0,"color":"","flags":{}}
+{"_id":"izHV7DPbW8BkSBci","name":"第二部","type":"JournalEntry","parent":null,"sorting":"m","sort":200000,"color":null,"flags":{}}
+{"_id":"ue1s6avTVd8C5ouY","name":"第三部","type":"JournalEntry","parent":null,"sorting":"m","sort":300000,"color":null,"flags":{}}
+{"name":"プリロールド","type":"Actor","parent":"LMDlloVobj3O1bMP","sorting":"m","sort":0,"color":null,"flags":{},"_id":"y9LQEiKzglgqhujH"}
